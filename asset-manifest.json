@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48b8d1ee.css",
+    "main.js": "/static/js/main.3965f082.js",
+    "static/js/453.5f179937.chunk.js": "/static/js/453.5f179937.chunk.js",
+    "static/media/person-line-drawing-plus-svgrepo-com.svg": "/static/media/person-line-drawing-plus-svgrepo-com.47969dfd5d3d6fcbe8e9d57e5c2d1e12.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/settings-svgrepo-com.svg": "/static/media/settings-svgrepo-com.3749e9ec35b05fa0461ff3b38acd9531.svg",
+    "static/media/three-open-svgrepo-com.svg": "/static/media/three-open-svgrepo-com.e51e0f50c2e04cdd5fdc3bebdb57068e.svg",
+    "static/media/barchart-svgrepo-com.svg": "/static/media/barchart-svgrepo-com.917dcd268fd729941a5f57937fb2409d.svg",
+    "static/media/person-svgrepo-com.svg": "/static/media/person-svgrepo-com.814c1d693ee78037b9fa6920af5d8f03.svg",
+    "static/media/wallet-svgrepo-com.svg": "/static/media/wallet-svgrepo-com.7c0728daafddd4837ea6b45e6ff810b5.svg",
+    "static/media/done-ring-round-svgrepo-com.svg": "/static/media/done-ring-round-svgrepo-com.469e2e61f39b2f6ada7cfb6eed5e08e4.svg",
+    "static/media/bell-svgrepo-com.svg": "/static/media/bell-svgrepo-com.8ac6a5c225231be0c9ccedf971afbcef.svg",
+    "static/media/squares-four-fill-svgrepo-com.svg": "/static/media/squares-four-fill-svgrepo-com.513410e2a07b249af7e263c5ec6b28d1.svg",
+    "static/media/search-svgrepo-com.svg": "/static/media/search-svgrepo-com.85f280dbc58d054181dff7391536ff87.svg",
+    "index.html": "/index.html",
+    "static/media/message-circle-dots-svgrepo-com.svg": "/static/media/message-circle-dots-svgrepo-com.f87982f1d70ab6616ee67502ff1d7fcd.svg",
+    "static/media/diagram-essential-web-svgrepo-com.svg": "/static/media/diagram-essential-web-svgrepo-com.ccf6dde7f4a3573183c54158b8f5ad2b.svg",
+    "static/media/triangle-svgrepo-com.svg": "/static/media/triangle-svgrepo-com.5b4b09d654b7fe11be4d0855a3250325.svg",
+    "main.48b8d1ee.css.map": "/static/css/main.48b8d1ee.css.map",
+    "main.3965f082.js.map": "/static/js/main.3965f082.js.map",
+    "453.5f179937.chunk.js.map": "/static/js/453.5f179937.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48b8d1ee.css",
+    "static/js/main.3965f082.js"
+  ]
+}
